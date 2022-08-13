@@ -1,0 +1,14 @@
+{
+    "user": [
+        {
+            "username": "archana",
+            "password": "Archa!@123",
+            "Profile": {
+                "description": "hello python",
+                "D.O.B": "12/3/2020",
+                "Gender": "female",
+                "Hobbies": "dancing"
+            }
+        }
+    ]
+}
